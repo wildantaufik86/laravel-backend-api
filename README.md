@@ -1,3 +1,8 @@
+# prerequisite
+
+-   composer update vendor
+-   php artisan migrate --seed
+
 # Reatrieved Students
 
 ![alt](./public/images/img-1.png)
